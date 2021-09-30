@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display&display=swap');
 
 * {
   box-sizing: border-box;
@@ -6,7 +6,7 @@
 
 body {
   background-color: #d0bdf4;
-  font-family: 'Viaoda Libre', sans-serif;
+  font-family: 'Fredericka the Great', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
